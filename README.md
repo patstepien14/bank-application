@@ -1,4 +1,4 @@
-# Simple bank application
+# Simple banking application
 ## General info:
 A simple application thanks to which we obtain information on
 deposits and withdrawals from customers.
