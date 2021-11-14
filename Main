@@ -5,7 +5,7 @@ public class Main {
 
     public static void main(String[] args) {
 	// write your code here
-        BankingApplication client = new BankingApplication("me","B001");
+        BankAccount client = new BankAccount("me","B001");
         client.showMenu();
     }
 }
